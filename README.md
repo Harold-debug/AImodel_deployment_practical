@@ -1,1 +1,3 @@
-# AImodel_deployment_practical
+# ML deployment using Render-Demo
+
+Student project 1
